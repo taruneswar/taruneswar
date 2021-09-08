@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taruneswar
-- 👀 I’m interested in AI , Machine Learning ,SAP ERP
+- 👀 I’m interested in AI , Machine Learning ,Java,Python,Big Data
 - 🌱 I’m currently learning SAP HR
 - 💞️ I’m looking to collaborate on ...
 - 📫 GMAIL:-taruneswar14@gmail.com 
