@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taruneswar
-- 👀 I’m interested in AI , Machine Learning ,Java,Python,Big Data
+- 👀 
 - 🌱 I’m currently learning SAP HR
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m interested in Building Data PipeLines from Scratch , Love Towards SCALA , Big Data , Machine Learning 
 - 📫 GMAIL:-taruneswar14@gmail.com 
 
 <!---
